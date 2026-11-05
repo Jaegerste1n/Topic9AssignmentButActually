@@ -78,6 +78,7 @@ namespace Topic9AssignmentButActually
             btnGreen.Visible = false;
             imgCharacter.Width = 400;
             lblInstruction.ForeColor = Color.MediumSpringGreen;
+            lblThwomp.ForeColor = Color.MediumSpringGreen;
         }
 
         private void imgCharacter_Resize(object sender, EventArgs e)
